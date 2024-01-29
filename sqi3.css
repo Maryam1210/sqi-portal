@@ -1,0 +1,508 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 10px #0202024d;
+    position: fixed;
+    top: 0px;
+    z-index: 99;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: navy;
+    font-size: 18px;
+}
+
+li>a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: cyan;
+}
+
+/* .one{
+    width: 50%;
+}
+.two{
+    width:25% ;
+}
+.three{
+    width: 100%;
+} */
+
+.one p {
+    opacity: 0.7;
+}
+
+.two p {
+    opacity: 0.7;
+}
+
+.three p {
+    opacity: 0.7;
+}
+
+.sectiontwo {
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    padding: 5px 50px;
+
+
+}
+
+.pats {
+    font-size: 18px;
+    margin-left: 100px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #fffdf5;
+    margin-top: 100px;
+}
+
+/* .divone {
+    width: 50%;
+}
+
+.divtwo {
+    width: 50%;
+} */
+
+.img {
+    width: 90%;
+}
+
+.study {
+    color: #000e42;
+    font-size: 2.5rem;
+}
+
+.button {
+    background-color: #00208a;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    width: 30%;
+    height: 9vh;
+}
+
+.maintwo {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-top: 50px;
+
+}
+
+.grad {
+    width: 90%;
+    height: 70vh;
+}
+
+.sqi-graduate {
+    width: 40%;
+}
+
+.link:hover {
+    color: #d9a04a;
+}
+
+.glance {
+    width: 30%;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+}
+
+.pat {
+    color: #666e8b;
+}
+
+.Testimonials {
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.developer {
+    border-radius: 20px;
+    width: 70%;
+
+}
+
+.product {
+    border-radius: 20px;
+    width: 70%;
+}
+
+.digital {
+    margin-bottom: 40px;
+}
+
+.data {
+    border-radius: 20px;
+    width: 70%;
+}
+
+.data {
+    border-radius: 20px;
+    width: 70%;
+}
+
+.software {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    width: 70%;
+    height: 100vh;
+    box-shadow: 50px 50px 56px #e8f3ea,
+        -50px -50px 56px #ecf7ee;
+    background-color: #d5eaf2;
+}
+
+.science {
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: -100px;
+    width: 70%;
+    background-color: #eeefbd;
+    height: 100vh;
+    box-shadow: 50px 50px 56px #d0e7d5,
+        -50px -50px 56px #d4ebd9;
+}
+
+.branch {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+    padding: 50px;
+}
+
+
+.start {
+    color: #000e42;
+    font-size: 2.5rem;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.branchtwo {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+    padding: 50px;
+}
+
+.literacy {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    width: 70%;
+    margin-top: -100px;
+    background-color: #dfd5e8;
+    height: 120vh;
+    box-shadow: 50px 50px 56px #fcddd8,
+        -50px -50px 56px #ffe1dc;
+}
+
+.designer {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #e0d5c0;
+    width: 70%;
+    height: 100vh;
+
+    box-shadow: 50px 50px 56px #f8ebe7,
+        -50px -50px 56px #ffe1dc;
+
+}
+
+.digital {
+    border-radius: 20px;
+    width: 70%;
+
+}
+
+.program {
+    color: #000e42;
+    font-size: 20px;
+}
+
+.section {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding: 10px 50px;
+}
+
+.google {
+    margin-left: 100px;
+}
+
+.imageone {
+    width: 100%;
+}
+
+.imagetwo {
+    width: 100%;
+}
+
+.imagethree {
+    width: 100%;
+}
+
+.backgrounds {
+    background-image: linear-gradient(rgba(98, 48, 93, 0.5) 30%,
+            rgba(1, 4, 65, 1) 70%), url(img/DSC_9054-scaled\ \(2\).jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 65vh;
+}
+
+.sqi {
+    border-radius: 40px;
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.tour {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.take {
+    color: white;
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+.button1 {
+    background-color: #00208a;
+    color: white;
+    border-radius: 30px;
+    border: none;
+    width: 20%;
+    height: 8vh;
+}
+
+.project {
+    justify-content: space-evenly;
+    display: flex !important;
+
+
+}
+
+#main {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 30px;
+
+    /* border: 2px solid red; */
+    /* text-align: justify; q */
+}
+#main>div>p{
+    padding: 10px;
+    text-justify: auto;
+    width: 300px;
+}
+
+/* .sqipa{
+    width: 100%;
+} */
+
+.conference {
+    width: 100%;
+    /* margin-left: 600px !important;
+ margin-top: -760px; */
+    height: 500vh !important;
+
+}
+
+.testin{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media screen and (max-width:475px) {
+
+    body{
+        overflow-x: hidden;
+    }
+    #main {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+
+    }
+
+    .conference {
+       display: none;
+    
+    }
+
+    .sqipa {
+        width: fit-content;
+
+    }
+
+    li>a {
+        display: none;
+
+    }
+
+
+    .main {
+        display: block;
+        width: 100%;
+    }
+
+    .divone {
+        width: 100%;
+    }
+
+    .divtwo {
+        width: 100%;
+    }
+
+    .maintwo {
+        display: block;
+    }
+
+    .sqi-graduate {
+        width: 100%;
+    }
+
+    .glance {
+        width: 100%;
+    }
+
+    .grad {
+        width: 100%;
+        height: 40vh;
+    }
+
+    .section {
+        display: block;
+    }
+
+    .sub1,
+    .sub2,
+    .sub3 {
+        width: 100%;
+    }
+
+    .sectiontwo {
+        display: block;
+    }
+
+    .branch {
+        display: block;
+        padding: 10px 50px 0px 10px;
+        /* border: 2px solid red; */
+        width: 100%;
+
+    }
+
+
+    .science {
+        width: 100%;
+        height: 100vh;
+    }
+
+    .software {
+        width: 100%;
+        margin-bottom: 140px;
+        height: 110vh;
+    }
+
+    .middle {
+        display: block;
+        padding-left: 30px;
+    }
+
+    .branchtwo {
+        display: block;
+        padding: 10px 50px 0px 10px;
+        margin-bottom: 100px;
+        width: 100%;
+    }
+
+    .literacy {
+        width: 100%;
+        height: 150vh;
+    }
+
+    .designer {
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 150px;
+        height: 120vh;
+
+    }
+
+    .imageone {
+        width: 100%;
+    }
+
+    .imagetwo {
+        width: 100%;
+    }
+
+    .imagethree {
+        width: 100%;
+    }
+
+    .backgrounds {
+        background-image: url(img/DSC_9054-scaled\ \(2\).jpg);
+        background-size: cover;
+        display: block;
+        justify-content: space-evenly;
+        height: 100vh;
+    }
+
+    .sqi {
+        border-radius: 40px;
+        width: 60%;
+        justify-content: center;
+
+    }
+
+    .tour {
+        width: 100%;
+        margin-right: 30px;
+    }
+
+    .parent {
+        display: flex;
+        justify-content: space-between;
+        box-shadow: 2px 2px 10px #0202024d;
+        position: fixed;
+        top: 0px;
+        z-index: 99;
+        width: 100%;
+        justify-content: space-evenly;
+        background-color: white;
+    }
+}

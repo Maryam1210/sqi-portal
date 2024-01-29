@@ -1,0 +1,308 @@
+body {
+     background-color: #FFFFFF;
+}
+
+.software {
+     border: 1px solid black;
+     width: 400px;
+     background-color: #D5EAF3;
+     border-radius: 30px;
+     padding: 40px 0px 10px 40px;
+
+
+     box-shadow:  50px 50px 56px #e8f3ea,
+                  -50px -50px 56px #ecf7ee;     
+}
+
+.main {
+     border: 1px solid black;
+     border-radius: 56px;
+     width: 400px;
+     position: relative;
+     top: -150px;
+     padding: 40px 0px 10px 40px;
+     border-radius: 30px;
+     float: unset;
+
+background-color: #EEEFBD;
+
+
+box-shadow:  50px 50px 56px #f8ebe7,
+             -50px -50px 56px #ffe1dc; 
+}
+.section {
+     border: 1px solid black;
+     width: 400px;
+     padding: 40px 0px 10px 40px;
+     border-radius: 30px;
+     background-color: #E0D5C0;
+     margin-left: 150px;
+
+     box-shadow:  50px 50px 56px #d0e7d5,
+                  -50px -50px 56px #d4ebd9;
+}
+
+.digital {
+     border: 1px solid black;
+     width: 400px;
+     ;
+     border-radius: 30px;
+     background-color: #DFD5E8;
+     position: relative;
+     top: -150px;
+     padding: 40px 0px 10px 40px;
+     border-radius: 50px;
+box-shadow:  50px 50px 56px #fcddd8,
+             -50px -50px 56px #ffe1dc;
+}
+
+.engineer {
+     font-size: 35px;
+}
+
+.data {
+     font-size: 35px;
+}
+
+.UI {
+     font-size: 35px;
+}
+
+.literacy {
+     font-size: 35px;
+}
+
+ head {
+     border-bottom: 5px solid;
+     color: black;
+     padding-bottom: 20px;
+}
+
+nav {
+     margin-top: -40px;
+     position: fixed;
+     margin-left: 550px;
+     text-decoration: none;
+     color: black;
+}
+
+.border {
+     border-bottom: 2px solid;
+     color: #070606;
+     padding-bottom: 5px
+}
+
+.post {
+     border: 1px solid white;
+     width: 350px;
+     padding: 1px 5px 5px 10px;
+     background-color: #F8F8F8;
+     margin-left: 30px;
+}
+
+.tech {
+     border: 1px solid white;
+     width: 350px;
+     padding: 1px 5px 5px 10px;
+     background-color: #F8F8F8;
+     margin-left: 20px;
+}
+
+.computer {
+     border: 1px solid white;
+     width: 350px;
+     padding: 1px 5px 5px 10px;
+     background-color: #F8F8F8; margin-left: 20px;
+}
+
+.june {
+     color: #F99F8A;
+}
+
+.july {
+     color: #F99F8A;
+}
+
+.jun {
+     color: #F99F8A;
+}
+
+ a {
+     color: black;
+     margin-left: 10px;
+     text-decoration: none;
+}
+
+.sews {
+     font-size: 50px;
+     margin-left: 75px;
+}
+
+.body {
+     background-color: #F0F1FF;
+     margin-top: 50px;
+}
+
+.color {
+     background-color: #D4EBDA;
+}
+
+
+.course {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 250px;
+     gap: 50px;
+}
+
+ .come {
+     font-size: 70px;
+     color: navy;
+     margin-left: 50px;
+     margin-bottom: 10px;
+}
+
+.learn {
+     font-size: 15px;
+     margin-left: 50px;
+     margin-top: 2px;
+}
+
+.image {
+     margin-left: 700px;
+     margin-top: -420px;
+     margin-bottom: 30px;
+     border: none;
+
+}
+
+.general {
+     display: flex;
+     gap: 30px;
+}
+
+.designer {
+     display: flex;
+     margin-top: 10px;
+     align-items: center;
+     gap: 50px;
+}
+
+ .button {
+     border: none;
+     width: 150px;
+     height: 60px;
+     cursor: default;
+     background-color: navy;
+     border-radius: 15px;
+     margin-left: 50px;
+}
+
+button a {
+     color: white;
+}
+
+ .about {
+     border: none;
+     outline: none;
+width: 10px;
+
+
+}
+ .national{   border: none;
+     outline: none;
+width: 10px;
+}
+.E-portal{
+border: none;
+outline: none;
+width: 10px;}
+
+
+.admission{
+border: none;
+outline: none;
+width: 10px;
+}
+
+ .africa {
+     margin-left: 650px;
+     margin-top: -500px;
+     font-size: 60px;
+}
+
+.focus {
+     margin-left: 650px;
+     font-size: 20px;
+}
+
+#picture {
+     background: url(img/DSC_9054-scaled\ \(1\).jpg);
+
+     height: 550px;
+     background-position: center;
+     background-size: cover;
+
+
+}
+
+.learnmore {
+     border: 2px solid white;
+     background-color: transparent;
+     padding: 10px 10px;
+}
+
+.scict {
+     margin-left: 700px;
+     color: white;
+
+}
+
+.alumni {
+     margin-top: 100px;
+     margin-left: 80px;
+     font-size: 20px;
+     
+}
+
+.google {
+     margin-left: 180px;
+}
+
+.paystack {
+     margin-left: 180px;
+}
+
+.edozzier {
+     margin-left: 180px;
+}
+
+ .sqiGraduate {
+     background-color: #F0FAFF;
+     margin-top: 50px;
+     margin-bottom: 10px;
+}
+.firsticon{
+     display: flex;
+     gap: 100px;
+
+margin-left: 150px;}
+.secondimage{
+display: flex;
+gap: 100px;
+margin-left: 150px;
+margin-top: 20px;
+}
+.imagethree{display: flex;
+margin-left: 150px;
+margin-top:20px ;
+gap: 100px;}
+.whystudy{
+     background-color: #FAFAFA;
+}
+.SQI{
+     font-size: 40px;
+     margin-left:150px ;
+     margin-bottom: 40px;
+}
